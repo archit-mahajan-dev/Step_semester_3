@@ -1,18 +1,16 @@
-# Step_semester_3
-
-Daily progress log for the Step Semester 3 coursework (newest entry on top).
-
-## Date: 10-10-2026
+## Date: 18-10-2026
 
 **Today's Work:**
-- Set up the repository with the required branching model (main, develop, feature/session_1)
-- Solved the 5 Day 1 live-coding problems in `string/class_problems`: Rock-Paper-Scissors, Palindrome Checker (3 approaches), BMI Calculator, First Non-Repeating Character, Reverse Customer Name
-- Solved the 5 Week 1 assignment problems in `string/assigment_problems`: Exam Seat Duplicate Checker, Typing Accuracy Checker, Traffic Signal Streak Analyzer, Warehouse Inventory Balancer, Movie Review Word Length Profiler
+- Created the `feature/session_2` branch from `develop`.
+- Added 5 live-session Java problems and 5 assignment problems.
+- Organized the Java files into `class_problems` and `assigment_problems`.
+- Committed and pushed the Session 2 solutions to GitHub.
 
 **Next Session Plan:**
-- Create `feature/session_2` from `develop` and start the next topic
+- Create `feature/session_3` from `develop` and complete the next session's Java problems.
 
 **Issues Faced:**
-- None
+- Resolved source-folder path and file-copy issues while preparing the Session 2 package.
 
 ---
+
